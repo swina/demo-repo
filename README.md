@@ -7,3 +7,6 @@ This is a simple change.
 
 ## Main Features
 This is another change
+
+## Added a paragraph
+This is another change
